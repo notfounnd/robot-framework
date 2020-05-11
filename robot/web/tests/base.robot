@@ -17,7 +17,7 @@ Library                 SeleniumLibrary
 
 # Definindo variáveis para o teste
 *** Variables ***
-${url}                  https://training-wheels-protocol.herokuapp.com/
+${url}                  https://training-wheels-protocol.herokuapp.com
 
 # Customizando keywords para o Robot Framework
 *** Keywords ***
