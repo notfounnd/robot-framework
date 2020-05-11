@@ -1,4 +1,4 @@
-## Robot Framework
+## Robot Framework + ReportPortal
 Projeto exemplo de automação de testes desenvolvido com [Robot Framework](https://robotframework.org/) e integrado com a ferramenta [ReportPortal](https://reportportal.io/).
 
 O objetivo principal desse projeto foi desenvolver de forma didática uma introdução à ferramenta Robot Framework para uso prático em um projeto voltado para automação de testes. Para uma melhor fixação dos conceitos desenvolvidos, todos os [arquivos de testes](https://github.com/notfounnd/robot-framework/tree/master/robot) possuem comentários explicativos dos comandos utilizados.
